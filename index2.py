@@ -1,1 +1,4 @@
-print('Git WOW!!! AMAZING!!')
+def roma_best():
+    print('Git Cool!')
+
+roma_best()
